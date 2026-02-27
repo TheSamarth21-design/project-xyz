@@ -269,7 +269,7 @@ function OnboardingScreen({ onRegister }) {
             <div className="w-20 h-20 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mb-6 shadow-inner">
                 <ShieldAlert size={40} />
             </div>
-            <h1 className="text-2xl font-bold text-slate-800 mb-2">SafeGuard</h1>
+            <h1 className="text-2xl font-bold text-slate-800 mb-2">"My Emergency App"</h1>
             <p className="text-slate-500 mb-10">Fall Detection & Emergency Response</p>
 
             <div className="w-full space-y-4">
